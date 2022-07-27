@@ -12,6 +12,8 @@ python3 app.py
 ```
 then you can see Todo App at http://127.0.0.1:5000
 
+![image](https://github.com/daoxuewu/todolist_app/blob/main/todoapp.PNG)
 
-
-ref : [Python Flask Beginner Tutorial - Todo App](https://www.python-engineer.com/posts/flask-todo-app/)
+ref :   
+[Python Flask Beginner Tutorial - Todo App](https://www.python-engineer.com/posts/flask-todo-app/)  
+[(youtube)Python Flask Beginner Tutorial - Todo App - Crash Course](https://www.youtube.com/watch?v=yKHJsLUENl0)
